@@ -49,10 +49,10 @@ border-color:deeppink;
 <h1>BIO DATA</h1>
 <hr>
 <p>
-Name: RITHIKA S
+Name: PREMKUMAR S
 <br>
 <br>
-date of birth: 15/04/2006
+date of birth: 09/05/2006
 <br>
 <br>
 Department: btech.agricultural engineering 
@@ -61,16 +61,16 @@ Department: btech.agricultural engineering
 Year: I YEAR
 <br>
 <br>
-Hobbies:dancing,cooking,drawing
+Hobbies:sleeping,drawing,cooking
 <br>
 <br>
-skills:java ,dancing,editing,cooking
+skills:c language,editing,cooking
 <br>
 <br>
 Mobile Number:2475981765
 <br>
 <br>
-E-Mail ID: kiruthigamoorthi2004@GMAIL.COM
+E-Mail ID: qwertyuiop22006@GMAIL.COM
 </p>
 </body>
 </html>
@@ -78,8 +78,7 @@ E-Mail ID: kiruthigamoorthi2004@GMAIL.COM
 
 ## OUTPUT
 
-![Screenshot (69)](https://github.com/prem4455/Ex05_Web-Design/assets/166099075/e809f095-d5d0-453e-98ce-11c476eabfef)
-
+![Screenshot 2024-04-30 220357](https://github.com/prem4455/Ex05_Web-Design/assets/166099075/1b405c79-8c09-4bcd-a64d-2ce8c9d6c03c)
 
 ## RESULT
   Bio-data with appropriate CSS styles and properties is created successfully.
